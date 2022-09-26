@@ -1,4 +1,4 @@
-- 👋 Hi, I’m arnold chris oduor
+- <h1>👋 Hi, I’m arnold chris oduor</h1>
 - 👀 I’m interested in low level programming 
 - 🌱 I’m currently learning DSA and C
 - 💞️ I’m looking to collaborate on embedded systems programming 
