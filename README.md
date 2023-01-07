@@ -1,6 +1,5 @@
    <h2>👋 Hi, I’m Arnold</h2>
 <h4>👀 I’m interested in low level programming </h4>
-<h4>🌱 I’m currently learning Linux and C</h4>
 <h4>💞️ I’m looking to collaborate on embedded systems programming projects</h4>
 <h4>📫 How to reach me arnoldchrisoduor@gmail.com</h4>
 
