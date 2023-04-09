@@ -1,6 +1,6 @@
    <h2>👋 Hi, I’m Arnold</h2>
 <h4>👀 Learning C, Python and DevOps. </h4>
-<h4>💞️ I’m looking to collaborate on C and Python projects</h4>
+<h4>💞️ I’m looking to collaborate on C, Python and Javascript projects</h4>
 <h4>📫 How to reach me arnoldchrisoduor@gmail.com</h4>
 
 <!---
