@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Arnold</h1>
+<h1 align="center">hey there 👋 </h1>
 
 ###
 
