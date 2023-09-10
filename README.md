@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Arnold from Nairobi, Kenya.<br><br>- 🔭 I’m a Data Analyst.<br>- 📚 I'm currently learning R.<br>- ⚡ In my free time I build the web.</p>
+<p align="left">I'm Arnold from Nairobi, Kenya.<br><br>- 🔭 I’m an Aspiring Data Analyst.<br>- 📚 I'm currently learning Data Exploration in SQL and Pandas.<br>- ⚡ In my free time I build the web.</p>
 
 ###
 
