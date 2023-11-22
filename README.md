@@ -59,9 +59,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"  />
-
-###
