@@ -1,4 +1,4 @@
-<h2 align="left">I'm Arnold Oduor : Machine Learning Engineer.</h2>
+<h2 align="left">I'm Arnold Oduor : FullStack Engineer(ML).</h2>
 
 ###
 
