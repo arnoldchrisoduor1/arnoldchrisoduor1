@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">I built, train, evaluate and deploy Machine Learning Models.<br><br>Build, implement and maintain data preprocessing pipelines for Machine learning models and neural networks.<br><br>Analyze data using the most in demand tools, creating visuals that clearly communicate insights.</h4>
+<h4 align="center">I buikd full Stack web applications <br><br>.I built, train, evaluate and deploy Machine Learning Models.<br><br>Build, implement and maintain data preprocessing pipelines for Machine learning models and neural networks.<br><br>Analyze data using the most in demand tools, creating visuals that clearly communicate insights.</h4>
 
 ###
 
